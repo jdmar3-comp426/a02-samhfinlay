@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-samhfinlay/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a02-samhfinlay#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a02-samhfinlay#readme",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
 }
